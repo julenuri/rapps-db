@@ -1,0 +1,13 @@
+[Section]
+Name = Driver for the ANET A8 and Arduino random clones CH340 and CH341 - USB Serial
+Version = V3.8
+License = Closed
+LicenseType = Closed
+Description = Driver for the Anet A8, and more boards, like Chinese Arduino Clones.
+Category = 13
+URLSite = https://www.wch-ic.com/downloads/CH341SER_ZIP.html
+URLDownload = https://www.wch.cn/downloads/file/5.html
+SHA1 = 98d1730ec4309783f453dd76aa6c63317160b1c7
+SizeBytes = 567028
+
+

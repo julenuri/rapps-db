@@ -1,0 +1,13 @@
+[Section]
+Name = TP-Link TL-WN725N V3 WLAN Wifi Adaptor's driver - Also known as rtl8188eu
+Version = 1.0.1.4
+License = Closed
+LicenseType = Closed
+Description = Little classical Wifi adaptor also needs drivers. Here they are, TP-Link drivers for ReactOS and Windows.
+Category = 13
+URLSite = https://www.tp-link.com/es/search/?q=TL-WN725N
+URLDownload = https://www.edimax.com/edimax/mw/cufiles/files/download/Driver_Utility/EW-7811UAC_Windows_Driver_1.0.1.4.zip
+SHA1 = 906fb1ef49890864a33f5e4f1856c6b82e2131ad
+SizeBytes = 51116059
+
+
