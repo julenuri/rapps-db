@@ -1,0 +1,13 @@
+[Section]
+Name = (VeryBox - Aopen DE2700) BIOS UPGRADE - DE2700
+Version = 
+License = Closed
+LicenseType = Closed
+Description = The BIOS of this device. Don't use it under ReactOS.
+Category = 13
+URLSite = www.verybox.com/productos/articulo.php?articulo=ABDE2700
+URLDownload = https://ftp.aopen.com/pub02/bios/acp/de2700/DE2700_WILA200.zip
+SHA1 = 9f2b4a8d253a4692e009d647b47045d81ab01424
+SizeBytes = 916985
+
+

@@ -1,0 +1,13 @@
+[Section]
+Name = (VeryBox - Aopen DE2700) Graphic driver - Intel GMA 950GSE
+Version = 14.32.4.4926_PV_XP2K
+License = Closed
+LicenseType = Closed
+Description = The Intel Generic Graphic drivers for the Intel Cards. Buggy under ReactOS.
+Category = 13
+URLSite = www.verybox.com/productos/articulo.php?articulo=ABDE2700
+URLDownload = https://ftp.aopen.com/pub01/driver/acp/vga/Intel_VGA_14.32.4.4926_PV_XP2K.zip
+SHA1 = 67c2e044d667607959e73122845aea53ca386aac
+SizeBytes = 18188730
+
+

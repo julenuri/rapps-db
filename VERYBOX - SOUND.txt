@@ -1,0 +1,13 @@
+[Section]
+Name = (VeryBox - Aopen DE2700) Audio driver - Realtek HD Audio ALC662
+Version = r2.35
+License = Closed
+LicenseType = Closed
+Description = Do you need audio? Here you have the audio drivers. It might not work under ReactOS
+Category = 13
+URLSite = www.verybox.com/productos/articulo.php?articulo=ABDE2700
+URLDownload = https://ftp.aopen.com/pub02/driver/acp/audio/realtek_hd_audio_r2.35.zip
+SHA1 = a906656c8d2652ab73696985134d69c76bcb7dbc
+SizeBytes = 62345069
+
+

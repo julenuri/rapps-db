@@ -1,0 +1,13 @@
+[Section]
+Name = (VeryBox - Aopen DE2700) Intel 945GSE Chipset - ICH7M
+Version = 9.1.1.1020_PV
+License = Closed
+LicenseType = Closed
+Description = The AOpen Chipset config.
+Category = 13
+URLSite = www.verybox.com/productos/articulo.php?articulo=ABDE2700
+URLDownload = https://ftp.aopen.com/pub02/driver/acp/chipset/Intel_chipset_9.1.1.1020_PV.zip
+SHA1 = 87f298a06ab82e1c87aab31b86b6adc77dae787f
+SizeBytes = 2492048
+
+

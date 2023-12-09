@@ -1,0 +1,13 @@
+[Section]
+Name = (VeryBox - Aopen DE2700) LAN driver - Internet driver -
+Version = 5.720_0331
+License = Closed
+LicenseType = Closed
+Description = Remember to install it correctly in both of the devices to connect to the NET. It's better for you.
+Category = 13
+URLSite = www.verybox.com/productos/articulo.php?articulo=ABDE2700
+URLDownload = https://ftp.aopen.com/pub01/driver/acp/lan/realtek_lan_5.720_0331.zip
+SHA1 = 966e1bc0c803bb81bdd925db272d80cee4023fb4
+SizeBytes = 5125278
+
+
