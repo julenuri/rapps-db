@@ -1,0 +1,13 @@
+[Section]
+Name = (Advent-MSI U100) Audio driver - Realtek HD Audio - ALC888
+Version = 5.10.0.5953
+License = Closed
+LicenseType = Closed
+Description = Generic Audio driver for every Realtek HD Audio device that is compatible with XP (WDM).
+Category = 13
+URLSite = https://es.msi.com/Laptop/U100/support#driver
+URLDownload = https://download.msi.com/archive/nb/dvr_exe/ad/ad_alc888_gr_5.10.0.5953_al00.zip
+SHA1 = 49f714d28d219ae7828bea5a15ff861454df39b9
+SizeBytes = 62356067
+
+

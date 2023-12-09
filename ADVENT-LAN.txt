@@ -1,0 +1,13 @@
+[Section]
+Name = (Advent-MSI U100) LAN driver - Internet cable Realtek RTL8102E
+Version = 5.706.0925
+License = Closed
+LicenseType = Closed
+Description = Needed to have LAN. Install it ASAP, if the driver out-of-box is not working.
+Category = 13
+URLSite = https://es.msi.com/Laptop/U100/support#driver
+URLDownload = https://download.msi.com/archive/nb/dvr_exe/lan/lan_rtl8102e_5.706.0925.2008_xp32.zip
+SHA1 = 1a856989c4533b1a056e18c67f434d35b087dd1e
+SizeBytes = 4700471
+
+

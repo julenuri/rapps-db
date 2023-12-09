@@ -1,0 +1,13 @@
+[Section]
+Name = (Advent-MSI U100) Bluetooth driver - 6837D
+Version = 6.40.01
+License = Closed
+LicenseType = Closed
+Description =  Bluetooth driver for the MSI u100. .
+Category = 13
+URLSite = https://es.msi.com/Laptop/U100/support#driver
+URLDownload = https://download.msi.com/archive/nb/dvr_exe/bt/bt_6837d_6.40.01_vx32.zip
+SHA1 = 4eeac92533f17430eb07f30ce3c5a17b326736b0
+SizeBytes = 69742320
+
+

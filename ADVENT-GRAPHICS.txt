@@ -1,0 +1,13 @@
+[Section]
+Name = 
+Version = 
+License = 
+LicenseType = 
+Description =  
+Category = 
+URLSite = 
+URLDownload = https://download.msi.com/archive/nb/dvr_exe/vga/vga_gma950x3100_6.14.10.4926_xp32.zip
+SHA1 = 
+SizeBytes = 
+
+

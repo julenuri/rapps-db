@@ -1,0 +1,13 @@
+[Section]
+Name = (Advent-MSI U100) Whole ISO with drivers - Not to download
+Version = None
+License = Closed
+LicenseType = Closed
+Description = Here we storage the whole iso with all the support https://archive.org/details/msi-u100-recovery
+Category = 13
+URLSite = https://archive.org/details/msi-u100-recovery
+URLDownload = https://archive.org/download/msi-u100-recovery/G71-NDW3105.ISO
+SHA1 = 626da434f2960ef305569ec29eb798dede1a3a85
+SizeBytes = 17137299
+
+

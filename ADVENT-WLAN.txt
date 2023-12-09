@@ -1,0 +1,13 @@
+[Section]
+Name = (Advent-MSI U100) Wireless WLAN driver - Internet WIFI Realtek RTL8187SE
+Version = 6.9100.0521
+License = Closed
+LicenseType = Closed
+Description = If you want to connect to the internet using the Wifi in Advent RTL8187SE (MS-6894) this is your driver
+Category = 13
+URLSite = https://es.msi.com/Laptop/U100/support#driver
+URLDownload = https://download.msi.com/archive/nb/dvr_exe/wl/wl_6894_6.9100.0521.2009_vx32.zip
+SHA1 = 626da434f2960ef305569ec29eb798dede1a3a85
+SizeBytes = 17137299
+
+

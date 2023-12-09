@@ -1,0 +1,13 @@
+[Section]
+Name = (Advent-MSI U100) Intel Chipset 945G driver - 
+Version = 8.7.0.1007
+License = Closed
+LicenseType = Closed
+Description =  Chipset driver - Not sure for what.
+Category = 13
+URLSite = https://es.msi.com/Laptop/U100/support#driver
+URLDownload = https://download.msi.com/archive/nb/dvr_exe/cs/cs_intel945g_8.7.0.1007_xp32.zip
+SHA1 = 49bbdc827e70b3a366f701b8dbb7a9dbfb625ed3
+SizeBytes = 2176469
+
+
