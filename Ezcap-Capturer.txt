@@ -1,0 +1,13 @@
+[Section]
+Name = RCA Capturer - Ezcap driver
+Version = 1.0.1.1
+License = Close
+LicenseType = Close
+Description = The beautiful capturer that you need to use. Also remember they have software https://www.ezcap.com/uploads/download/ShowBiz35.zip
+Category = 13
+URLSite = https://www.ezcap.com/index.php/product/ezcap172videocapture.html
+URLDownload = https://www.ezcap.com/uploads/download/ezcap172driver.zip
+SHA1 = a68f3395afe78e90fa57a900ea72d00dc2fb3823
+SizeBytes = 
+
+
