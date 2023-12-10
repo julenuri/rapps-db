@@ -1,0 +1,13 @@
+[Section]
+Name = Audio Drivers - Komplete Audio 6 MK1
+Version = 3.02
+License = Closed
+LicenseType = Closed
+Description = Native Instruments have this beautiful and powerful device to modify the audio.
+Category = 13
+URLSite = https://www.native-instruments.com/es/products/komplete/audio-interfaces/komplete-audio-6/
+URLDownload = https://www.native-instruments.com/fileadmin/drivers/audiohardware/Komplete_Audio_6_302_PC_p.zip
+SHA1 = 00c823a6a44c29e38ec749329fdc7579590d6f38
+SizeBytes = 00c823a6a44c29e38ec749329fdc7579590d6f38
+
+

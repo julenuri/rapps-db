@@ -1,0 +1,13 @@
+[Section]
+Name = CONCEPTRONIC CSOUNDU (C-Media CM109) Audio Driver v0.1.5
+Version = 8.1.8.2172
+License = Closed
+LicenseType = Closed
+Description = Audio adapter driver from CSOUNDU C08-041 USB PCM 16bit/48kHz ADC/DAC - I guess we have to complete it- 
+Category = 13
+URLSite = https://web.archive.org/web/20100612102941/http://conceptronic.net/Site/desktopdefault.aspx?tabindex=1&tabid=242&cid=40&gid=4050&pid=CSOUNDU
+URLDownload = https://github.com/islandcontroller/fiberaudio-108/releases/download/v0.1.5-driver-only/C-Media_CM108_Audio_Drivers_8.1.8.2172.zip
+SHA1 = 
+SizeBytes = 
+
+
