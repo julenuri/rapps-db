@@ -1,0 +1,16 @@
+[Section]
+Name = Pionner DDJ-ERGO-V audio drivers - ASIO Drivers
+Version = 1.200
+License = Closed
+LicenseType = Closed
+Description = Pionner DDJ-ERGO-V audio drivers - Compatible with VirtualDJ
+Category = 13
+URLSite = https://www.pioneerdj.com/es-es/product/controller/archive/ddj-ergo/white/overview/
+URLDownload = https://www.pioneerdj.com/-/media/pioneerdj/downloads/drivers/ddj-ergo/pioneerddjdriver1200.zip
+SHA1 = c8925aeb852038fa3aa00b6ef71f5fb62a56ae9e
+SizeBytes = 1017623
+
+[Section.Amd64]
+URLDownload = https://www.pioneerdj.com/-/media/pioneerdj/downloads/drivers/ddj-ergo/pioneerddjdriver1200.zip
+
+

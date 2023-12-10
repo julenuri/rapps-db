@@ -1,0 +1,15 @@
+[Section]
+Name = NUX Audio Driver - ASIO
+Version = v2.4.4
+License = Closed
+LicenseType = Closed
+Description = Audio Controller for the NUX UC2 - ASIO Sound Card for HQ music.
+Category = 13
+URLSite = https://v2sources.siiite.com//enclosure/sources/fUdBbIApchDTHHJp/NUX UC-2 User Manual.pdf
+URLDownload = http://v2sources.siiite.com//enclosure/sources/gOIxzRKkLEkuUyQT/NUX%20UC-2%20Driver%20(Windows).zip
+SHA1 = d9a9ea970dff17dc6a63cb343a6d147997b46362
+SizeBytes = 55052297
+
+[Section.Amd64]
+URLDownload = http://v2sources.siiite.com//enclosure/sources/gOIxzRKkLEkuUyQT/NUX%20UC-2%20Driver%20(Windows).zip
+

@@ -1,0 +1,15 @@
+[Section]
+Name = Virtual Audio Cable - VBAudio
+Version = 1.0.3.5
+License = Closed
+LicenseType = MS Closed
+Description = Virtual Audio cable - For that devices that requires an audio output but doesn't have.
+Category = 
+URLSite = https://vb-audio.com/Cable/index.htm
+URLDownload = https://download.vb-audio.com/Download_CABLE/VBCABLE_Driver_Pack43.zip
+SHA1 = 0fc70fd364b76b3dbdf6c9780369a834ed9efd3e
+SizeBytes = 1139147
+
+[Section.Amd64]
+URLDownload = https://download.vb-audio.com/Download_CABLE/VBCABLE_Driver_Pack43.zip
+
