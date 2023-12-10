@@ -1,0 +1,13 @@
+[Section]
+Name = (Gigabyte-GA-7VT600-L) VIA 4in1 Chipset
+Version = 5.1.0.3442
+License = Closed
+LicenseType = Closed
+Description = VIA chipset driver for the Gigabyte old board I have.
+Category = 13
+URLSite = https://www.gigabyte.com/mx/Motherboard/GA-7VT600-L-rev-1x/sp#sp
+URLDownload = https://download1.gigabyte.com/Files/Driver/motherboard_driver_chipset_via_4in1.exe
+SHA1 = 2c20cdbfa1ae632ea0b735adbdadc309b557d2df
+SizeBytes = 1234523
+
+

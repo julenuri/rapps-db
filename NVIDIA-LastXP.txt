@@ -1,0 +1,18 @@
+[Section]
+Name = Nvidia GeForce Game Ready Driver
+Version = 368.81
+License = Propietary
+LicenseType = Closed
+Description = From GeForce GT 420 and TITAN to GeForce GTX 960
+Category = 13
+URLSite = https://www.nvidia.es/download/driverResults.aspx/105194/es
+URLDownload = https://es.download.nvidia.com/Windows/368.81/368.81-desktop-winxp-32bit-international.exe
+SHA1 = 6cbbbeb796075bb0146651064426edb0b7ad7d52
+SizeBytes = 219985952
+
+[Section.Amd64]
+URLDownload = https://es.download.nvidia.com/Windows/368.81/368.81-desktop-winxp-64bit-international.exe
+SHA1 = 8f57b865909a6794b7f2a43156930a8532970d8c
+SizeBytes = 269066336
+
+

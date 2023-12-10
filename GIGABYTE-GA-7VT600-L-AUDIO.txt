@@ -1,0 +1,13 @@
+[Section]
+Name = (Gigabyte-GA-7VT600-L) Audio Driver - AC97 Realtek ALC655
+Version = A3.92
+License = Closed
+LicenseType = Closed
+Description = The AC'97 driver from Realtek
+Category = 13
+URLSite = https://www.gigabyte.com/mx/Motherboard/GA-7VT600-L-rev-1x/sp#sp
+URLDownload = https://download1.gigabyte.com/Files/Driver/motherboard_driver_audio_realtek_whql.exe
+SHA1 = 03939efbc979aad319bed5391af8a5858cdaa551
+SizeBytes = 2017362
+
+

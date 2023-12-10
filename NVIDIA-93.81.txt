@@ -1,0 +1,18 @@
+[Section]
+Name = NVIDIA Graphic Driver - 93.81 - For old Graphic Cards, last compatible.
+Version = 93.81
+License = Propietary
+LicenseType = Closed
+Description = This is the lastest version of the driver compatible with cards like the Nvidia Geforce MX440.
+Category = 13
+URLSite = https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/93.81/93.81_forceware_winxp2k_english.exe&lang=us&type=GeForce
+URLDownload = https://us.download.nvidia.com/Windows/93.81/93.81_forceware_winxp2k_english.exe
+SHA1 = dab1a9be029e029594242320bc2834287b2bb2b8
+SizeBytes = 33789712
+
+[Section.Amd64]
+URLDonwload = https://us.download.nvidia.com/Windows/93.81/93.81_forceware_winxp64_english.exe
+SHA1 = d08844cb319a1683086a57a778304d70d1c53cd9
+SizeBytes = 41733624
+
+

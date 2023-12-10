@@ -1,0 +1,13 @@
+[Section]
+Name = (Gigabyte-GA-7VT600-L) BIOS setup
+Version = f15
+License = Closed
+LicenseType = Closed
+Description = Be careful, ReactOS is not behaving well with it.
+Category = 13
+URLSite = https://www.gigabyte.com/mx/Motherboard/GA-7VT600-L-rev-1x/sp#sp
+URLDownload = https://download.gigabyte.com/FileList/BIOS/motherboard_bios_7vt600_f15.exe
+SHA1 = 242f58e52414745d0ece9cf2e862eb1eaf265309
+SizeBytes = 501989
+
+

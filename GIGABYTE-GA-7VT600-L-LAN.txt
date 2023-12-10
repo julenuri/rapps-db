@@ -1,0 +1,13 @@
+[Section]
+Name = (Gigabyte-GA-7VT600-L) Realtek 8101L LAN driver
+Version = V1.60.615
+License = Closed
+LicenseType = Closed
+Description = LAN Driver of the Realtek 8101L. It must be covered by the own ReactOS driver. LanSetup for REALTEK Gigabit and Fast Ethernet NIC Driver Setup
+Category = 13
+URLSite = https://www.gigabyte.com/mx/Motherboard/GA-7VT600-L-rev-1x/sp#sp
+URLDownload = https://download1.gigabyte.com/Files/Driver/motherboard_driver_lan_realtek_81xx.exe
+SHA1 = 3fdd76fbdc342ff6437b51f32856aea18ed1b032
+SizeBytes = 2017362
+
+
