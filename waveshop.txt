@@ -9,8 +9,17 @@ URLDownload = https://netix.dl.sourceforge.net/project/waveshop/waveshop-1.0.14/
 SHA1 = 793e2762086e77364802fa94e9c2b8003e4f85d1
 SizeBytes = 3317069
 Icon = waveshop.ico
+Installer = Generate
+
+[Generate]
+DelFile = WaveShop.ini
 
 [Section.amd64]
 URLDownload = https://nav.dl.sourceforge.net/project/waveshop/waveshop-1.0.14/waveshop-1.0.14.001-portable-x64.zip
 SHA1 = 14b3dab7254ab854f68fa27d7c2e1547f5086973
 SizeBytes = 3355511
+
+[Section.041f]
+Name = Waveshop (Taşınabilir)
+License = GPL sürüm 2
+Description = WaveShop bir ücretsiz ve açık kaynak ses düzenleyicisidir.

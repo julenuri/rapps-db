@@ -8,6 +8,12 @@ URLSite = https://otter-browser.org
 URLDownload = https://downloads.sourceforge.net/project/otter-browser/otter-browser-1.0.01/otter-browser-win32-1.0.01-xp.zip
 SHA1 = 33333aa188bbdd430e7ca62e9fbb5a464c0bd087
 SizeBytes = 70390771
+Installer = Generate
+
+[Generate]
+Files = otter-browser-win32-1.0.01-xp\o*.exe|otter-browser-win32-1.0.01-xp\*
+DelDir = .\..\Otter\cache|.\..\Otter\Otter
+DelDirEmpty = .\..\Otter
 
 [Section.0a]
 Name = Navegador Otter
@@ -19,3 +25,7 @@ Description = Otter Browser 旨在使用 Qt5 來重現經典的 Opera (12.x) UI 
 [Section.0407]
 Description = Otter Browser ist ein Web-Browser, der das klassische Opera (12.x) UI mittels Qt5 wiederbelebt.
 
+[Section.041f]
+Name = Otter Tarayıcı
+License = GPL sürüm 3
+Description = Otter Tarayıcı, Qt5 kullanarak klasik Opera (12.x) UI'sinin en iyi bakış açısını yeniden oluşturmayı amaçlar.

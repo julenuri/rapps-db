@@ -5,7 +5,7 @@ License = GPLv2
 Description = An open source webserver with a focus on security.
 Category = 5
 URLSite = https://www.hiawatha-webserver.org/
-URLDownload = https://www.hiawatha-webserver.org/files/hiawatha-9/hiawatha-9.15.zip
+URLDownload = https://web.archive.org/web/2024if_/https://www.hiawatha-webserver.org/files/hiawatha-9/hiawatha-9.15.zip
 SHA1 = 6ada69afdeb3f75ceda0c19c67d562a5052a9949
 SizeBytes = 3560500
 
@@ -18,10 +18,6 @@ Description = 一款專注於安全的開源網路伺服器。
 [Section.0407]
 Description = Quelloffener Webserver mit einem Augenmerk auf Sicherheit.
 
-[Section.041f]
-License = GPL sürüm 2
-Description = Güvenlik üzerine odaklı açık kaynak bir ağ sunucusu.
-
 [Section.0415]
 Description = Otwartoźródłowy serwer internetowy z naciskiem na bezpieczeństwo.
 
@@ -30,6 +26,10 @@ Description = Server web cu surse deschise, având securitatea în prim plan.
 
 [Section.0419]
 Description = Веб-сервер с упором на безопасность.
+
+[Section.041f]
+License = GPL sürüm 2
+Description = Güvenlik üzerine odaklı açık kaynak bir Web sunucusu.
 
 [Section.0425]
 Description = Avatud lähtekoodiga veebiserver rõhuga turvalisusele.

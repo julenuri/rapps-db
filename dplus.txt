@@ -8,6 +8,7 @@ URLSite = http://dplus-browser.sourceforge.net/
 URLDownload = http://download.sourceforge.net/project/dplus-browser/Releases/dplus-0.5b/dplus-0.5b-setup.exe
 SHA1 = 26fa54b8fbe66e7172bdf217cce247f49f7d92e6
 SizeBytes = 1425497
+RegName = DPlus
 
 [Section.0a]
 Description = Un navegador de archivos con interfaz gráfica y un énfasis en la seguridad, el rendimiento y la portabilidad. Se basa en Dillo y es una versión alternativa del proyecto Dillo-Win32.
@@ -34,7 +35,7 @@ Description = Графический веб-браузер с акцентом �
 [Section.041f]
 Name = D+ Tarayıcı
 License = GPL sürüm 3
-Description = Güvenlik, başarım ve taşınabilirlik üzerine bir vurguyla, grafiksel bir ağ tarayıcısıdır. Dillo tabanlıdır ve Dillo-Win32 tasarısından çatallanmıştır.
+Description = Güvenlik, performans ve taşınabilirlik üzerine bir vurguyla, grafiksel bir ağ tarayıcısıdır. Dillo tabanlıdır ve Dillo-Win32 projesinden çatallanmıştır.
 
 [Section.0425]
 Description = Graafiline veebibrauser rõhuga turvalisusele ja kaasaskantavusele. Põhineb Dillo pealt ja on harustatud Dillo-Win32 projektist.
